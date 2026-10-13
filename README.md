@@ -61,7 +61,11 @@ Add screenshots of the dashboard and profile experience here.
 
 ![StellarQuant dashboard](assets/dashboard.png)
 ![StellarQuant profile page](assets/profile.png)
+
 -->
+## 📸 Project Preview
+
+![Project Preview](prev_stellar.png)
 
 ## 💡 What This Project Demonstrates
 
